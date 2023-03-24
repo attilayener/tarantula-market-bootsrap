@@ -1,2 +1,3 @@
-# tarantula-market-bootsrap
- tarantula-market-bootsrap
+# Market sitesi yapımı - Bootstrap
+ 
+ Bootstrap ile Tarantula market sitesi yaptım.
